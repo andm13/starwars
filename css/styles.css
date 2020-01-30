@@ -1,7 +1,10 @@
 .carousel img {
-  height: 90vh; }
+  height: 100vh; }
 
 nav {
   background-color: black; }
+
+.carousel {
+  overflow: hidden; }
 
 /*# sourceMappingURL=styles.css.map */
